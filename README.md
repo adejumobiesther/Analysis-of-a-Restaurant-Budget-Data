@@ -1,4 +1,4 @@
-# Budget-Analysis
+# Analysis of a Restaurant Budget Data
 This repository contains data from a restaurant that produces and sells salads, sandwiches and smoothies. 
 The restaurant has generated a budget of the quantity of products they wish to sell for the next financial year. 
 In this repository, I have used Python and SQL to:
